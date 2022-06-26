@@ -3,7 +3,8 @@ package ru.geekstar;
 public class Main {
     public static void main(String[] args) {
 
-        // develop - Ветка предназначена для разработки и может быть не стабильной
+        // feature/one - Ветка предназначена для
+        //разработки новой функциональности
 
         System.out.println("Hello world!");
     }
