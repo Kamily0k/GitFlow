@@ -4,8 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        // feature/one - Ветка предназначена для
-        //разработки новой функциональности
+        // hotfix/pay - ветка для быстрого решения багов
 
 
         System.out.println("Hello world!");
